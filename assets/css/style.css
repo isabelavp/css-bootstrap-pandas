@@ -1,0 +1,124 @@
+.container-fluid {
+	width: 100%;
+}
+.onen {
+	background-color: #FA854A;
+	padding: 4%;
+	text-align: right;
+	color: #fff;
+	font-family: museo-sans, "Helvetica Neue", Arial, sans-serif;
+	font-size: 40px;
+
+
+}
+.one {
+	background-color: #FA854A;
+	padding: 1%;
+}
+img {
+	width: 100%;
+}
+.letter {
+	ont-size: 25px;
+	color: #fff;
+	font-family: museo-sans, "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+
+}
+
+p {
+	font-size: 20px;
+	color: #fff;
+	font-family: museo-sans, "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+
+}
+.imgUno {
+	background-image: url(../css/img/uno.jpg);
+	padding: 30%;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.imgDos {
+	background-image: url(../css/img/dos.jpg);
+	padding: 30%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.imgTres {
+	background-image: url(../css/img/tres.jpg);
+	padding: 30%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.two {
+	background-color: #A1CC72;
+	padding: 2%;
+}
+.onenn {
+	background-color: #FA854A;
+	padding: 5%;
+	}
+
+.twon {
+	background-color: #A1CC72;
+	padding: 5%;
+}
+.twonn {
+	background-color: #A1CC72;
+	padding: 4%;
+	text-align: center;
+	color: #fff;
+	font-family: museo-sans, "Helvetica Neue", Arial, sans-serif;
+	font-size: 30px;
+}
+#img1 {
+	width: 100%;
+	height: 100%;
+	border: solid white;
+}
+#img2 {
+	width: 100%;
+	height: 100%;
+	border: solid white;
+}
+#img3 {
+	width: 100%;
+	height: 100%;
+	border: solid white;
+}
+#img4 {
+	width: 100%;
+	height: 100%;
+	border: solid white;
+}
+
+
+.two2 {
+	background-color: #A1CC72;
+	padding: 4%;
+	
+
+}
+
+.two2n{
+	
+	background-color: #A1CC72;
+	align-content: right;
+}
+
+
+
+.onens {
+	background-color: #FA854A;
+	padding: 2%;
+	text-align: right;
+	color: #fff;
+	font-family: museo-sans, "Helvetica Neue", Arial, sans-serif;
+	font-size: 20px;
+
+}
+
+
